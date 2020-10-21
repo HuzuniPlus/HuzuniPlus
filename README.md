@@ -8,7 +8,11 @@ why i made this client public
 
 some idiots wanted to make money with it
 
+
+
 so here is
+
+Credits to iMRC for starting this proyect
 
 
 
