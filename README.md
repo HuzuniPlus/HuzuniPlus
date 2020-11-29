@@ -1,18 +1,6 @@
 # HuzuniPlus
-
-WARN:
-Shitty Salhack Skid
-
-
-why i made this client public
-
-some idiots wanted to make money with it
-
-
-
-so here is
-
-Credits to iMRC for starting this proyect
+Shitty Salhack 3.0 Rename for Fuckboys by iMRC 
+i thonk mrc wanted to make it better but he only used jbyte bruh
 
 
 
